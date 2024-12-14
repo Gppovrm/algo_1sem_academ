@@ -1,4 +1,4 @@
 # Ignore PyCharm .idea folder
 .idea/
 /shelf/
-/workspace.xml
+/.idea/workspace.xml
